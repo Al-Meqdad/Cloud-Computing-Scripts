@@ -1,17 +1,23 @@
-This script works as follows:
-        1-you just type the name of the script file like the following: ./LinuxStatus.sh
-        2-If you added the script to linux PATH you only need to type LinuxStatus.sh
-        3-After you type the name of the script it will start the script showing you a welcome screen stating:
-                a-Your name
-                b-Linux version
-                c-Date and time of the day
-                d-List of options:
-                        1-Show all the current running proccess
-                        2-Show memory status
-                        3-Show HDD status
-                        4-Check apache version
-                        5-Exit
-        4-Depending on what option you choose the script will display it to you clearly with another list of options:
-               a-Go back to the main menu
-               b-Update view
-               c-Exit
+# Linux Status Script
+This script provides an easy-to-use interface for monitoring and checking various system parameters on Linux.
+
+### Usage
+To use the script, follow these simple steps:
+
+- Type the name of the script file in your terminal, like this: ./LinuxStatus.sh.
+- Alternatively, if you've added the script to your Linux PATH, simply type LinuxStatus.sh.
+### Features
+The script will display a welcome screen showing your name, the Linux version, and the current date and time. You'll also see a list of available options, including:
+
+- Show all the currently running processes.
+- Show memory status.
+- Show HDD status.
+- Check Apache version.
+- Exit.
+
+Depending on which option you choose, the script will display the corresponding information in a clear and readable format. You'll also have the following options:
+
+        1. Go back to the main menu.
+        2. Update the view.
+        3. Exit.
+        4. This script is designed to make it easy to monitor your Linux system and quickly check various parameters. Enjoy!
